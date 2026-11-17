@@ -1,8 +1,8 @@
-torch
-torchvision
-streamlit
-streamlit-drawable-canvas
-Pillow
-numpy
-pandas
-pytest
+torch>=2.2,<3
+torchvision>=0.17,<1
+streamlit>=1.32,<2
+streamlit-drawable-canvas>=0.9,<1
+Pillow>=10,<13
+numpy>=1.26,<3
+pandas>=2.1,<4
+pytest>=8,<10
