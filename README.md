@@ -14,9 +14,17 @@
 
 NeuralDigits AI is an interactive handwritten digit recognition application. Draw a digit from **0 to 9** on the Streamlit canvas and a trained Convolutional Neural Network (CNN) predicts the digit, displays its confidence, and visualizes the probability for every class.
 
-## Demo
+## Application screenshots
 
-Launch the app locally and draw a digit in the canvas to try the model. Add screenshots of the running dashboard here when available.
+### NeuralDigits AI dashboard
+
+![NeuralDigits AI dashboard](assets/neuraldigits-dashboard.png)
+
+### Live digit prediction
+
+![NeuralDigits AI prediction showing digit 5 and class probabilities](assets/neuraldigits-prediction.png)
+
+Launch the app locally and draw a digit from 0 to 9 to try the model.
 
 ## Results
 
