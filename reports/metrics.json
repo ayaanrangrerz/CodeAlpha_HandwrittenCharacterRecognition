@@ -1,0 +1,6 @@
+{
+    "model": "HandwrittenDigitCNN",
+    "dataset": "MNIST",
+    "epochs": 5,
+    "test_accuracy": 99.16
+}
